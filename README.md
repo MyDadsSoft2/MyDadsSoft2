@@ -1,29 +1,61 @@
 # 👋 Hey, I'm MyDadsSoft
 
-💻 Minecraft Plugin Developer  
-⚙️ Paper / Spigot Development  
-🚀 Making lightweight & optimized plugins  
+💻 Multi-Language Developer  
+⚙️ Minecraft | Desktop Apps | Game Tools  
+🚀 I build fast, clean, and optimized software  
 
 ---
 
-## 🔥 My Plugins
+## 🔥 Tech Stack
 
-- 🌱 **RadiusBoneMeal** – Grow crops in a radius  
-- 🔥 **FastFurnace** – Speed up furnaces  
+- ☕ Java (Minecraft Plugins / Backend)
+- 🟣 C# (.NET, WPF Apps, Tools)
+- ⚙️ C++ (Low-level / Performance tools)
+- 🐍 Python (Automation / AI / Scripts)
 
 ---
 
-## ⚡ What I Do
+## 🧠 Notable Work
 
-- Custom Minecraft plugins  
-- Performance-focused systems  
-- Clean & simple configs  
+- 🎮 Sims 4 DLC Unlocker  
+- 🎯 Rainbow Six Siege Recoil Script  
+- ⚙️ Advanced game tools & automation systems  
+- 🚀 Performance-focused and low-level projects  
+
+---
+
+## 🌱 Featured Projects
+
+- 🌱 **RadiusBoneMeal**  
+  Bonemeal works in a configurable radius  
+
+- 🔥 **FastFurnace**  
+  Fully configurable furnace speed  
+
+---
+
+## 🧠 What I Build
+
+- 🔌 Minecraft (Paper/Spigot) Plugins  
+- 🖥️ Desktop Applications (WPF / WinForms)  
+- ⚡ Performance & Utility Tools  
+- 🤖 Automation & AI-based systems  
 
 ---
 
 ## 📊 Stats
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=YOURNAME&show_icons=true&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURNAME&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 Goals
+
+- Build bigger Minecraft systems  
+- Release more public tools  
+- Expand into advanced software & AI  
 
 ---
 
@@ -33,7 +65,6 @@
 
 ---
 
-## 🧠 Currently Working On
+## ⚡ Fun Fact
 
-- More QoL plugins  
-- Advanced server systems  
+I don’t just write code — I optimize it.
