@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hey, I'm MyDadsSoft
 
-<!--
-**MyDadsSoft2/MyDadsSoft2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Minecraft Plugin Developer  
+⚙️ Paper / Spigot Development  
+🚀 Making lightweight & optimized plugins  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 My Plugins
+
+- 🌱 **RadiusBoneMeal** – Grow crops in a radius  
+- 🔥 **FastFurnace** – Speed up furnaces  
+
+---
+
+## ⚡ What I Do
+
+- Custom Minecraft plugins  
+- Performance-focused systems  
+- Clean & simple configs  
+
+---
+
+## 📊 Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=YOURNAME&show_icons=true&theme=tokyonight)
+
+---
+
+## ❤️ Support Me
+
+👉 https://ko-fi.com/YOURNAME
+
+---
+
+## 🧠 Currently Working On
+
+- More QoL plugins  
+- Advanced server systems  
