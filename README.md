@@ -61,7 +61,7 @@
 
 ## ❤️ Support Me
 
-👉 https://ko-fi.com/YOURNAME
+👉 https://ko-fi.com/mydadssoft
 
 ---
 
